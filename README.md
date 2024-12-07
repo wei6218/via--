@@ -22,7 +22,6 @@
   <DT><A HREF="https://picui.cn/upload" ADD_DATE="1723308152">图床</A>
   <DT><A HREF="https://alist.nn.ci/zh/" ADD_DATE="1723380488" LAST_MODIFIED="1727957395">AList文档</A>
   <DT><A HREF="http://localhost:9876/" ADD_DATE="1723439152">DDNS-GO</A>
-  <DT><A HREF="https://www.szsrcjt.com/exam/255" ADD_DATE="1726295990" LAST_MODIFIED="1727957382">宿州市人才集团有限公司</A>
   <DT><A HREF="https://web.telegram.org/k/" ADD_DATE="1726323861">Telegram Web</A>
   <DT><A HREF="http://shsq.vip/" ADD_DATE="1726335689" LAST_MODIFIED="1727957354">上号神器-手游扫码登录工具</A>
   <DT><A HREF="https://pan.funletu.com/?ref=www.qssily.com#/" ADD_DATE="1726592291" LAST_MODIFIED="1727957343">趣盘搜</A>
